@@ -1,3 +1,17 @@
+# File: modify_list.py
+# Description: Modifying lists with del and pop methods
+# Environment: PyCharm and Anaconda environment
+#
+# MIT License
+# Copyright (c) 2018 Valentyn N Sichkar
+# github.com/sichkar-valentyn
+#
+# Reference to:
+# [1] Valentyn N Sichkar. Modifying lists with del and pop methods. // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Modify_List_with_del_and_pop_in_Python (date of access: XX.XX.XXXX)
+
+
+
+
 # Implementing the task
 # Creating a function to modify list
 # Function will not return anything
@@ -22,7 +36,7 @@ def modify_list_del(lst):
             lst[i] //= 2
 
 
-# Creating function for modifying list with 'pop' method
+# Creating function for modifying list with 'pop' method, so called 'stack' deleting
 def modify_list_pop(lst):
     # Creating an intermediate local list
     a = []
