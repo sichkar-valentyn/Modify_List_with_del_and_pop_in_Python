@@ -1,9 +1,6 @@
 # Modify List with del and pop in Python
 Examples of functions for modifying lists with del and pop methods.
 
-### Courses:
-* Explore the course **"Convolutional Neural Networks for Image Classification"** here: https://stepik.org/course/53801/promo
-
 ### Reference to:
 [1] Valentyn N Sichkar. Modifying lists with del and pop methods. // GitHub platform [Electronic resource]. URL: https://github.com/sichkar-valentyn/Modify_List_with_del_and_pop_in_Python (date of access: XX.XX.XXXX)
 
